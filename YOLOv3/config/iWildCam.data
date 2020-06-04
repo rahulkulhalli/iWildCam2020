@@ -1,0 +1,6 @@
+classes= 267
+train=/home/antpc/Documents/data_mount/iWildCam2020/data/train.txt
+valid=/home/antpc/Documents/data_mount/iWildCam2020/data/valid.txt
+names=/home/antpc/Documents/data_mount/iWildCam2020/data/iWildCam2020.names
+backup=backup/
+eval=coco
