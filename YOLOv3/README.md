@@ -1,4 +1,4 @@
-The code in this directory has originally authored by Erik Linder-Norén([eriklindernoren](https://github.com/eriklindernoren)), which has subsequently been modified for the purpose of the challenge.
+The code in this directory has originally been authored by Erik Linder-Norén([eriklindernoren](https://github.com/eriklindernoren)), which has subsequently been modified for the purpose of the challenge.
 ---
 # PyTorch-YOLOv3
 A minimal PyTorch implementation of YOLOv3, with support for training, inference and evaluation.
